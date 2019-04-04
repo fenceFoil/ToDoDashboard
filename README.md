@@ -1,5 +1,5 @@
 # ToDoDashboard
-A set of Bokeh dashboards to visualize and manage my to-do emails with a longer view than an email client.
+A set of Bokeh dashboards to visualize, archive, and manage my to-do emails with a longer view than an email client.
 
 Pulls emails from Gmail currently.
 
